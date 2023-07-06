@@ -304,7 +304,6 @@ def a_equals():
     total_str = str(total_list[0])
 button_equals.clicked.connect(a_equals)
 
-
 window.setLayout(main_layout)
 window.show()
 app.exec_()
